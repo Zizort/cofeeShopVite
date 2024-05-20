@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 //below full, half, empty star
 import { FaStar, FaStarHalfAlt, FaRegStar } from 'react-icons/fa'
 
